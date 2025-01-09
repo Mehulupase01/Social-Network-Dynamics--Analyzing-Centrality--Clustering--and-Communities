@@ -1,10 +1,6 @@
 # Social Network Dynamics: Analyzing Centrality, Clustering, and Communities
  This project explores social network dynamics by analyzing real-world network datasets using various graph theory techniques. It implements algorithms to measure centrality, clustering, and community detection, providing a deep understanding of the structure and behavior of social networks.
 
-# Social Network Dynamics: Analyzing Centrality, Clustering, and Communities
-
-This project focuses on analyzing and exploring social network dynamics using graph theory methods. The main objective is to apply various algorithms to understand the behavior of nodes and communities within a network. We implement centrality measures, clustering techniques, and community detection algorithms to study real-world social network datasets, uncovering insights into their structure and functionality.
-
 ## Overview
 
 Social network analysis plays a critical role in understanding the structure and evolution of complex networks. This project delves into key topics in network theory, including **centrality measures**, **clustering coefficients**, **bipartite graph projections**, and **community detection**. The dataset used in this project represents a social network where nodes are individuals and edges represent their relationships or interactions.
